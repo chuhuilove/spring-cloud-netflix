@@ -215,7 +215,7 @@
 					</dependency>
 				</dependencies>
 			</plugin>
-			<plugin>
+			<!--<plugin>
 				<groupId>org.asciidoctor</groupId>
 				<artifactId>asciidoctor-maven-plugin</artifactId>
 				<executions>
@@ -231,7 +231,7 @@
 						</configuration>
 					</execution>
 				</executions>
-			</plugin>
+			</plugin>-->
 		</plugins>
 	</build>
 </project>

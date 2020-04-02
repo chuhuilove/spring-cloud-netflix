@@ -64,10 +64,10 @@ import static org.springframework.boot.test.context.SpringBootTest.WebEnvironmen
 @DirtiesContext
 public class RibbonClientHttpRequestFactoryTests {
 
-	@Rule
 	/**
 	 * JUnit rule
 	 */
+	@Rule
 	public final ExpectedException exceptionRule = ExpectedException.none();
 
 	@LoadBalanced
