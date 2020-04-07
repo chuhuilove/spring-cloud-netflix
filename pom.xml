@@ -21,7 +21,7 @@
 	</scm>
 	<properties>
 		<bintray.package>netflix</bintray.package>
-		<spring-cloud-commons.version>2.1.5.RELEASE</spring-cloud-commons.version>
+		<spring-cloud-commons.version>2.1.5.RELEASE-cyzi</spring-cloud-commons.version>
 		<spring-cloud-config.version>2.1.6.RELEASE</spring-cloud-config.version>
 		<spring-cloud-stream.version>Fishtown.SR4</spring-cloud-stream.version>
 		<!-- Has to be a stable version (not one that depends on this version of netflix): -->
