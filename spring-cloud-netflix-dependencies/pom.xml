@@ -16,7 +16,7 @@
 	<properties>
 		<archaius.version>0.7.6</archaius.version>
 		<concurrency-limits.version>0.1.12</concurrency-limits.version>
-		<eureka.version>1.9.13</eureka.version>
+		<eureka.version>1.9.13-cyzi</eureka.version>
 		<hystrix.version>1.5.18</hystrix.version>
 		<okhttp3.version>3.8.1</okhttp3.version>
 		<ribbon.version>2.3.0</ribbon.version>

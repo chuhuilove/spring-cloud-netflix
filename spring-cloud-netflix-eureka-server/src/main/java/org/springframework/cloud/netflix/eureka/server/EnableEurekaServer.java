@@ -25,7 +25,8 @@ import java.lang.annotation.Target;
 import org.springframework.context.annotation.Import;
 
 /**
- * Annotation to activate Eureka Server related configuration.
+ *
+ * 激活eureka-server相关的配置.
  * {@link EurekaServerAutoConfiguration}
  *
  * @author Dave Syer
